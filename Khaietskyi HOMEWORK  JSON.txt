@@ -1,0 +1,42 @@
+[
+ {
+   "Car name": "Toyota RAV4",
+   "Car model": "RAV4",
+   "Car price": "20,000 USD",
+   "Hybrid": true,
+   "Mileage": "30,000km",
+   "Year build": 2017
+ },
+ {
+   "Car name": "Toyota Prius",
+   "Car model": "Prius",
+   "Car price": "10,000 USD",
+   "Hybrid": true,
+   "Mileage": "83,500km",
+   "Year build": 2014
+ },
+ {
+   "Car name": "Toyota CAMRY",
+   "Car model": "CAMRY",
+   "Car price": "15,300 USD",
+   "Hybrid": false,
+   "Mileage": "26,000km",
+   "Year build": 2010
+ },
+ {
+   "Car name": "Honda Accord",
+   "Car model": "Accord",
+   "Car price": "18,000 USD",
+   "Hybrid": false,
+   "Mileage": "40,000km",
+   "Year build": 2015
+ },
+ {
+   "Car name": "Lexus RX450h",
+   "Car model": "RX450h",
+   "Car price": "25,0000 USD",
+   "Hybrid": true,
+   "Mileage": "86,000km",
+   "Year build": 2016
+ }
+]

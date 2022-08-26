@@ -1,0 +1,6 @@
+Car name,Car model,Car price,Hybrid,Mileage,Year build
+Toyota RAV4,RAV4,"20,000 USD",true,"30,000km",2017
+Toyota Prius,Prius,"10,000 USD",true,"83,500km",2014
+Toyota CAMRY,CAMRY,"15,300 USD",false,"26,000km",2010
+Honda Accord,Accord,"18,000 USD",false,"40,000km",2015
+Lexus RX450h,RX450h,"25,0000 USD",true,"86,000km",2016

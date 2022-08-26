@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <cars>
+    <Hybrid>true</Hybrid>
+    <Mileage>30,000km</Mileage>
+    <Car_name>Toyota RAV4</Car_name>
+    <Car_model>RAV4</Car_model>
+    <Car_price>20,000 USD</Car_price>
+    <Year_build>2017</Year_build>
+  </cars>
+  <cars>
+    <Hybrid>true</Hybrid>
+    <Mileage>83,500km</Mileage>
+    <Car_name>Toyota Prius</Car_name>
+    <Car_model>Prius</Car_model>
+    <Car_price>10,000 USD</Car_price>
+    <Year_build>2014</Year_build>
+  </cars>
+  <cars>
+    <Hybrid>false</Hybrid>
+    <Mileage>26,000km</Mileage>
+    <Car_name>Toyota CAMRY</Car_name>
+    <Car_model>CAMRY</Car_model>
+    <Car_price>15,300 USD</Car_price>
+    <Year_build>2010</Year_build>
+  </cars>
+  <cars>
+    <Hybrid>false</Hybrid>
+    <Mileage>40,000km</Mileage>
+    <Car_name>Honda Accord</Car_name>
+    <Car_model>Accord</Car_model>
+    <Car_price>18,000 USD</Car_price>
+    <Year_build>2015</Year_build>
+  </cars>
+  <cars>
+    <Hybrid>true</Hybrid>
+    <Mileage>86,000km</Mileage>
+    <Car_name>Lexus RX450h</Car_name>
+    <Car_model>RX450h</Car_model>
+    <Car_price>25,0000 USD</Car_price>
+    <Year_build>2016</Year_build>
+  </cars>
+</root>
